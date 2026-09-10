@@ -71,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/darshil1408/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/darshil1408/LeetCode-Questions/tree/master/0326-power-of-three) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
