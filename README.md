@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshil1408/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0299-bulls-and-cows](https://github.com/darshil1408/LeetCode-Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/darshil1408/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/darshil1408/LeetCode-Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/darshil1408/LeetCode-Questions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
