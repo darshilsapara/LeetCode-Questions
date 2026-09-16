@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/darshil1408/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/darshil1408/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/darshil1408/LeetCode-Questions/tree/master/0299-bulls-and-cows) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
