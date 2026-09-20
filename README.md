@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/darshil1408/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [3498-reverse-degree-of-a-string](https://github.com/darshil1408/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/darshil1408/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
