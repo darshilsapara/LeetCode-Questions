@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/darshil1408/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshil1408/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/darshil1408/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/darshil1408/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/darshil1408/LeetCode-Questions/tree/master/0492-construct-the-rectangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshil1408/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/darshil1408/LeetCode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/darshil1408/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 ## String
