@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/darshil1408/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/darshil1408/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/darshil1408/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/darshil1408/LeetCode-Questions/tree/master/0455-assign-cookies) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/darshil1408/LeetCode-Questions/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/darshil1408/LeetCode-Questions/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
