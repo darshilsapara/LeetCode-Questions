@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/darshil1408/LeetCode-Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/darshil1408/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/darshil1408/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshil1408/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/darshil1408/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/darshil1408/LeetCode-Questions/tree/master/0860-lemonade-change) |
 ## Quicksort
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/darshil1408/LeetCode-Questions/tree/master/0086-partition-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
