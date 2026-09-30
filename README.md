@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/darshil1408/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/darshil1408/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/darshil1408/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/darshil1408/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshil1408/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/darshil1408/LeetCode-Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/darshil1408/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -142,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
