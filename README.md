@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
 |  |
 | ------- |
