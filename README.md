@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/darshil1408/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/darshil1408/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0492-construct-the-rectangle](https://github.com/darshil1408/LeetCode-Questions/tree/master/0492-construct-the-rectangle) |
 | [1512-number-of-good-pairs](https://github.com/darshil1408/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/darshil1408/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
