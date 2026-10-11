@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/darshil1408/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/darshil1408/LeetCode-Questions/tree/master/0326-power-of-three) |
