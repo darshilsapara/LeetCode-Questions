@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/darshil1408/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/darshil1408/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/darshil1408/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshil1408/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/darshil1408/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
