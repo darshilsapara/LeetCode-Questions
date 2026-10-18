@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/darshil1408/LeetCode-Questions/tree/master/0860-lemonade-change) |
+| [0888-fair-candy-swap](https://github.com/darshil1408/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/darshil1408/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/darshil1408/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/darshil1408/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/darshil1408/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
+| [0888-fair-candy-swap](https://github.com/darshil1408/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/darshil1408/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/darshil1408/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0888-fair-candy-swap](https://github.com/darshil1408/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
