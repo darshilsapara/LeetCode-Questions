@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/darshil1408/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshil1408/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/darshil1408/LeetCode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/darshil1408/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/darshil1408/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/darshil1408/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/darshil1408/LeetCode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0693-binary-number-with-alternating-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/darshil1408/LeetCode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/darshil1408/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/darshil1408/LeetCode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Primality Test
 |  |
 | ------- |
