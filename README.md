@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/darshil1408/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/darshil1408/LeetCode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/darshil1408/LeetCode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/darshil1408/LeetCode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
