@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/darshil1408/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/darshil1408/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/darshil1408/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/darshil1408/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/darshil1408/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/darshil1408/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/darshil1408/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/darshil1408/LeetCode-Questions/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/darshil1408/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/darshil1408/LeetCode-Questions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [1512-number-of-good-pairs](https://github.com/darshil1408/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
