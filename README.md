@@ -141,16 +141,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/darshil1408/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/darshil1408/LeetCode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/darshil1408/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/darshil1408/LeetCode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/darshil1408/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/darshil1408/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/darshil1408/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/darshil1408/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/darshil1408/LeetCode-Questions/tree/master/0112-path-sum) |
 ## Counting
 |  |
 | ------- |
