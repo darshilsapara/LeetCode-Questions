@@ -145,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/darshil1408/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/darshil1408/LeetCode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/darshil1408/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/darshil1408/LeetCode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/darshil1408/LeetCode-Questions/tree/master/0112-path-sum) |
 ## Counting
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/darshil1408/LeetCode-Questions/tree/master/0148-sort-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
