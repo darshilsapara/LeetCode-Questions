@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [1512-number-of-good-pairs](https://github.com/darshil1408/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/darshil1408/LeetCode-Questions/tree/master/1837-sum-of-digits-in-base-k) |
+| [2413-smallest-even-multiple](https://github.com/darshil1408/LeetCode-Questions/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/darshil1408/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/darshil1408/LeetCode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/darshil1408/LeetCode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/darshil1408/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/darshil1408/LeetCode-Questions/tree/master/2413-smallest-even-multiple) |
 ## Ternary Search
 |  |
 | ------- |
