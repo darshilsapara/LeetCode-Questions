@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/darshil1408/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/darshil1408/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshil1408/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/darshil1408/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/darshil1408/LeetCode-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/darshil1408/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/darshil1408/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/darshil1408/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/darshil1408/LeetCode-Questions/tree/master/0414-third-maximum-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/darshil1408/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/darshil1408/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/darshil1408/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/darshil1408/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/darshil1408/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/darshil1408/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/darshil1408/LeetCode-Questions/tree/master/0455-assign-cookies) |
 ## Knapsack Problem
 |  |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/darshil1408/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/darshil1408/LeetCode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
