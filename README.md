@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/darshil1408/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/darshil1408/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0821-shortest-distance-to-a-character](https://github.com/darshil1408/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/darshil1408/LeetCode-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/darshil1408/LeetCode-Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/darshil1408/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
